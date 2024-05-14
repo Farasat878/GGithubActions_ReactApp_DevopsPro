@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Farasat878/GGithubActions_ReactApp_DevopsPro.git/static/css/main.073c9b0a.css",
+    "main.js": "/Farasat878/GGithubActions_ReactApp_DevopsPro.git/static/js/main.d0115b88.js",
+    "static/js/787.dd9a8d66.chunk.js": "/Farasat878/GGithubActions_ReactApp_DevopsPro.git/static/js/787.dd9a8d66.chunk.js",
+    "static/media/logo.svg": "/Farasat878/GGithubActions_ReactApp_DevopsPro.git/static/media/logo.16b63f3cde49a58f69098d2ad30bf094.svg",
+    "index.html": "/Farasat878/GGithubActions_ReactApp_DevopsPro.git/index.html",
+    "main.073c9b0a.css.map": "/Farasat878/GGithubActions_ReactApp_DevopsPro.git/static/css/main.073c9b0a.css.map",
+    "main.d0115b88.js.map": "/Farasat878/GGithubActions_ReactApp_DevopsPro.git/static/js/main.d0115b88.js.map",
+    "787.dd9a8d66.chunk.js.map": "/Farasat878/GGithubActions_ReactApp_DevopsPro.git/static/js/787.dd9a8d66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d0115b88.js"
+  ]
+}
